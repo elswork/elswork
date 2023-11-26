@@ -21,7 +21,7 @@
 
 Other ways to fund me:
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/elswork)](https://github.com/sponsors/elswork) [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=LFKA5YRJAFYR6&no_recurring=0&item_name=Open+Source+Donation&currency_code=EUR)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/elswork)](https://github.com/sponsors/elswork) [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=LFKA5YRJAFYR6&no_recurring=0&item_name=Open+Source+Donation&currency_code=EUR) [![Donate Coinbase](https://img.shields.io/badge/coinbase-elswork-blue)](https://elswork.cb.id)
 <!--
 **elswork/elswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
