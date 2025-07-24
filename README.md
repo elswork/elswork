@@ -17,11 +17,30 @@
   </a>
 </details>
 
-**[Sponsor me!](https://github.com/sponsors/elswork) Together we will be unstoppable.**
+**[¡Patrocíname!](https://github.com/sponsors/elswork) Juntos seremos imparables.**
 
-Other ways to fund me:
+Otras formas de financiarme:
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/elswork)](https://github.com/sponsors/elswork) [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=LFKA5YRJAFYR6&no_recurring=0&item_name=Open+Source+Donation&currency_code=EUR) [![Donate Coinbase](https://img.shields.io/badge/coinbase-elswork-blue)](https://elswork.cb.id)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/elswork)](https://github.com/sponsors/elswork) [![Donar PayPal](https://img.shields.io/badge/Donar-PayPal-green.svg)](https://www.paypal.com/donate/?business=LFKA5YRJAFYR6&no_recurring=0&item_name=Donación+para+Código+Abierto&currency_code=EUR) 
+---
+
+**Donar con Bitcoin (BTC):**
+
+`bc1qfxsxxcr2akh2l26m6am0vpwwkhnsua04lmgfef`
+
+[Ver en Blockchain.com](https://www.blockchain.com/btc/address/bc1qfxsxxcr2akh2l26m6am0vpwwkhnsua04lmgfef)
+
+---
+
+**Donar con Ethereum (ETH):**
+
+`0x186b91982CbB6450Af5Ab6F32edf074dFCE8771c`
+
+[Ver en Etherscan](https://etherscan.io/address/0x186b91982CbB6450Af5Ab6F32edf074dFCE8771c)
+
+---
+
+*Ten en cuenta que las donaciones son voluntarias y no son reembolsables. ¡Gracias por tu generosidad!*
 <!--
 **elswork/elswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
