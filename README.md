@@ -6,7 +6,7 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la innovac
 
 #### 🚀 Proyectos destacados
 
-- [**anticitera.deft.work**](https://github.com/elswork/anticitera.deft.work): Motor de automatización para tareas complejas basado en eventos y flujos de trabajo.
+- [**anticitera.deft.work**](https://github.com/elswork/anticitera.deft.work): Mi proyecto vitalicio, que busca la creación del ccTLD .IA en el territorio de Isla de Antiditera.
 - [**free.deft.work**](https://github.com/elswork/free.deft.work): ¿Cuáles son tus canciones, películas y libros favoritos? Entra en nuestra web y compartelos con el mundo.
 
 ---
