@@ -1,13 +1,15 @@
 ### ¡Hola! 👋 Soy elswork
 
 Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la innovación, la automatización y el software libre. Me gusta crear herramientas que ayuden a la comunidad y experimentar con nuevas tecnologías.
-
+[**Perfil elswork**](https://elswork.github.io) Web2: elswork.github.io
+[**Perfil elswork**](https://elswork.anticitera) Web3: elswork.anticitera
 ---
 
 #### 🚀 Proyectos destacados
 
-- [**anticitera.deft.work**](https://github.com/elswork/anticitera.deft.work): Mi proyecto vitalicio, que busca la creación del ccTLD .IA en el territorio de Isla de Anticitera.
-- [**free.deft.work**](https://github.com/elswork/free.deft.work): ¿Cuáles son tus canciones, películas y libros favoritos? Entra en nuestra web y compartelos con el mundo.
+- [**anticitera.deft.work**](https://anticitera.deft.work): Mi proyecto vitalicio, que busca la creación del ccTLD .IA en el territorio de Isla de Anticitera.
+- [**free.deft.work**](https:/free.deft.work): ¿Cuáles son tus canciones, películas y libros favoritos? Entra en nuestra web y compartelos con el mundo.
+- [**dominio.deft.work**](https://dominio.deft.work): ¿Quieres reservar un dominio .IA gratuitamente? Esta es tu web.
 
 ---
 
